@@ -1,0 +1,218 @@
+│                   └── Immersive Control Panel.lnk
+│   │   │   │   │   │       │   ├── 1 - Desktop.lnk
+│   │   │   │   │   │       │   ├── 1 - Run.lnk
+│   │   │   │   │   │       │   ├── 2 - Search.lnk
+│   │   │   │   │   │       │   ├── 3 - Windows Explorer.lnk
+│   │   │   │   │   │       │   ├── 4 - Control Panel.lnk
+│   │   │   │   │   │       │   ├── 5 - Task Manager.lnk
+│   │   │   │   │   │           ├── 01 - Command Prompt.lnk
+│   │   │   │   │   │           ├── 01a - Windows PowerShell.lnk
+│   │   │   │   │   │           ├── 02 - Command Prompt.lnk
+│   │   │   │   │   │           ├── 02a - Windows PowerShell.lnk
+│   │   │   │   │   │           ├── 03 - Computer Management.lnk
+│   │   │   │   │   │           ├── 04 - Disk Management.lnk
+│   │   │   │   │   │           ├── 04-1 - NetworkStatus.lnk
+│   │   │   │   │   │           ├── 05 - Device Manager.lnk
+│   │   │   │   │   │           ├── 06 - SystemAbout.lnk
+│   │   │   │   │   │           ├── 07 - Event Viewer.lnk
+│   │   │   │   │   │           ├── 08 - PowerAndSleep.lnk
+│   │   │   │   │   │           ├── 09 - Mobility Center.lnk
+│   │   │   │   │   │           ├── 10 - AppsAndFeatures.lnk
+│   │   │           │       ├── Shows Desktop.lnk
+│   │   │           │       ├── Window Switcher.lnk
+│   │   │               │   ├── Fax Recipient.lnk
+│   │   │               │       │   ├── Magnify.lnk
+│   │   │               │       │   ├── Narrator.lnk
+│   │   │               │       │   ├── On-Screen Keyboard.lnk
+│   │   │               │       ├── OneDrive.lnk
+│   │   │               │       │   ├── Administrative Tools.lnk
+│   │   │               │       │   ├── Command Prompt.lnk
+│   │   │               │       │   ├── Control Panel.lnk
+│   │   │               │       │   ├── File Explorer.lnk
+│   │   │               │       │   ├── Run.lnk
+│   │   │               │       │   └── computer.lnk
+│   │   │               │       │   ├── Windows PowerShell (x86).lnk
+│   │   │               │       │   └── Windows PowerShell.lnk
+│   │   │   │   │   │   ├── ActivitiesCache.db
+│   │   │   │   │   │   ├── ActivitiesCache.db-shm
+│   │   │   │   │   │   └── ActivitiesCache.db-wal
+│   │   │   │   │           ├── first_party_sets.db
+│   │   │   │   │           ├── first_party_sets.db-journal
+│   │   │   │   ├── IconCache.db
+│   │   │   │   │   │       │   │   └── assets.db
+│   │   │   │   │   │       │   │   └── coupons_data.db
+│   │   │   │   │   │       │   │   ├── EdgeEDropSQLite.db
+│   │   │   │   │   │       │   │   └── EdgeEDropSQLite.db-journal
+│   │   │   │   │   │       │   │   ├── EntityExtractionAssetStore.db
+│   │   │   │   │   │       │   │   ├── Databases.db
+│   │   │   │   │   │       │   │   └── Databases.db-journal
+│   │   │   │   │   │       │   ├── heavy_ad_intervention_opt_out.db
+│   │   │   │   │   │       │   ├── heavy_ad_intervention_opt_out.db-journal
+│   │   │   │   │   │       │   ├── load_statistics.db
+│   │   │   │   │   │       │   ├── load_statistics.db-shm
+│   │   │   │   │   │       │   ├── load_statistics.db-wal
+│   │   │   │   │   │   │   ├── cversions.1.db
+│   │   │   │   │   │   │   ├── cversions.3.db
+│   │   │   │   │   │   │   ├── {3AF18ABF-B905-4D30-88C9-B63C603DA134}.3.ver0x0000000000000001.db
+│   │   │   │   │   │   │   ├── {3DA71D5A-20CC-432F-A115-DFE92379E91F}.3.ver0x000000000000001a.db
+│   │   │   │   │   │   │   ├── {3DA71D5A-20CC-432F-A115-DFE92379E91F}.3.ver0x000000000000001b.db
+│   │   │   │   │   │   │   ├── {AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000002.db
+│   │   │   │   │   │   │   └── {AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000003.db
+│   │   │   │   │   │   │   ├── iconcache_1280.db
+│   │   │   │   │   │   │   ├── iconcache_16.db
+│   │   │   │   │   │   │   ├── iconcache_1920.db
+│   │   │   │   │   │   │   ├── iconcache_256.db
+│   │   │   │   │   │   │   ├── iconcache_2560.db
+│   │   │   │   │   │   │   ├── iconcache_32.db
+│   │   │   │   │   │   │   ├── iconcache_48.db
+│   │   │   │   │   │   │   ├── iconcache_768.db
+│   │   │   │   │   │   │   ├── iconcache_96.db
+│   │   │   │   │   │   │   ├── iconcache_custom_stream.db
+│   │   │   │   │   │   │   ├── iconcache_exif.db
+│   │   │   │   │   │   │   ├── iconcache_idx.db
+│   │   │   │   │   │   │   ├── iconcache_sr.db
+│   │   │   │   │   │   │   ├── iconcache_wide.db
+│   │   │   │   │   │   │   ├── iconcache_wide_alternate.db
+│   │   │   │   │   │   │   ├── thumbcache_1280.db
+│   │   │   │   │   │   │   ├── thumbcache_16.db
+│   │   │   │   │   │   │   ├── thumbcache_1920.db
+│   │   │   │   │   │   │   ├── thumbcache_256.db
+│   │   │   │   │   │   │   ├── thumbcache_2560.db
+│   │   │   │   │   │   │   ├── thumbcache_32.db
+│   │   │   │   │   │   │   ├── thumbcache_48.db
+│   │   │   │   │   │   │   ├── thumbcache_768.db
+│   │   │   │   │   │   │   ├── thumbcache_96.db
+│   │   │   │   │   │   │   ├── thumbcache_custom_stream.db
+│   │   │   │   │   │   │   ├── thumbcache_exif.db
+│   │   │   │   │   │   │   ├── thumbcache_idx.db
+│   │   │   │   │   │   │   ├── thumbcache_sr.db
+│   │   │   │   │   │   │   ├── thumbcache_wide.db
+│   │   │   │   │   │   │   └── thumbcache_wide_alternate.db
+│   │   │   │   │   │   │   ├── wpndatabase.db
+│   │   │   │   │   │   │   ├── wpndatabase.db-shm
+│   │   │   │   │   │   │   ├── wpndatabase.db-wal
+│   │   │   │   │   │       │   ├── 1 - Desktop.lnk
+│   │   │   │   │   │       │   ├── 1 - Run.lnk
+│   │   │   │   │   │       │   ├── 2 - Search.lnk
+│   │   │   │   │   │       │   ├── 3 - Windows Explorer.lnk
+│   │   │   │   │   │       │   ├── 4 - Control Panel.lnk
+│   │   │   │   │   │       │   ├── 5 - Task Manager.lnk
+│   │   │   │   │   │           ├── 01 - Command Prompt.lnk
+│   │   │   │   │   │           ├── 01a - Windows PowerShell.lnk
+│   │   │   │   │   │           ├── 02 - Command Prompt.lnk
+│   │   │   │   │   │           ├── 02a - Windows PowerShell.lnk
+│   │   │   │   │   │           ├── 03 - Computer Management.lnk
+│   │   │   │   │   │           ├── 04 - Disk Management.lnk
+│   │   │   │   │   │           ├── 04-1 - NetworkStatus.lnk
+│   │   │   │   │   │           ├── 05 - Device Manager.lnk
+│   │   │   │   │   │           ├── 06 - SystemAbout.lnk
+│   │   │   │   │   │           ├── 07 - Event Viewer.lnk
+│   │   │   │   │   │           ├── 08 - PowerAndSleep.lnk
+│   │   │   │   │   │           ├── 09 - Mobility Center.lnk
+│   │   │   │   │   │           ├── 10 - AppsAndFeatures.lnk
+│   │   │   │   │   ├── 18e190413af045db88dfbd29609eb877.db
+│   │   │   │   │   ├── 18e190413af045db88dfbd29609eb877.db.session64
+│   │   │   │   │   ├── templet.lnk
+│   │   │           │   │   ├── Google Chrome.lnk
+│   │   │           │   │   ├── Microsoft Edge.lnk
+│   │   │           │   │   ├── Shows Desktop.lnk
+│   │   │           │   │   │       ├── File Explorer.lnk
+│   │   │           │   │   │       ├── Microsoft Edge.lnk
+│   │   │           │   │   ├── Window Switcher.lnk
+│   │   │               │   ├── $J.lnk
+│   │   │               │   ├── $T.lnk
+│   │   │               │   ├── 2023-07-12T130128_Ex1 (2).lnk
+│   │   │               │   ├── 2023-07-12T130128_Ex1 (3).lnk
+│   │   │               │   ├── 2023-07-12T130128_Ex1.lnk
+│   │   │               │   ├── 2023-07-12T130726_Ex1 (2).lnk
+│   │   │               │   ├── 2023-07-12T130726_Ex1 (3).lnk
+│   │   │               │   ├── 2023-07-12T130726_Ex1.lnk
+│   │   │               │   ├── 2023-07-12T132104_Ex1 (2).lnk
+│   │   │               │   ├── 2023-07-12T132104_Ex1.lnk
+│   │   │               │   ├── 2023-07-12T132450_jjjjj.lnk
+│   │   │               │   ├── 2023-07-12T13_01_28_3348910_ConsoleLog.lnk
+│   │   │               │   ├── 2023-07-12T142118_LKKK (2).lnk
+│   │   │               │   ├── 2023-07-12T142118_LKKK.lnk
+│   │   │               │   ├── 2023-07-12T144145_LKKK (2).lnk
+│   │   │               │   ├── 2023-07-12T144145_LKKK.lnk
+│   │   │               │   ├── Amcache.lnk
+│   │   │               │   ├── BCD.lnk
+│   │   │               │   ├── BITS.lnk
+│   │   │               │   ├── CompoundTargetGuide.lnk
+│   │   │               │   ├── DFFFj20230712T144145DESKTOP-MG4UPRR.lnk
+│   │   │               │   ├── EVEIID.lnk
+│   │   │               │   ├── EventTraceLogs.tkape.lnk
+│   │   │               │   ├── Ex1.lnk
+│   │   │               │   ├── KapeResearch.lnk
+│   │   │               │   ├── KapeResearch_Registry_DEFAULT_JSON.mkape.lnk
+│   │   │               │   ├── LogFiles.tkape.lnk
+│   │   │               │   ├── ModuleGuide.guide.lnk
+│   │   │               │   ├── Modules.lnk
+│   │   │               │   ├── New Text Document.lnk
+│   │   │               │   ├── Targets.lnk
+│   │   │               │   ├── The Internet.lnk
+│   │   │               │   ├── Windows System.lnk
+│   │   │               │   ├── Windows.lnk
+│   │   │               │   ├── ddd.lnk
+│   │   │               │   ├── ms-gamingoverlay--kglcheck-.lnk
+│   │   │               │   ├── ms-settingsnetwork.lnk
+│   │   │               │   ├── my goals.lnk
+│   │   │               │   ├── nothing.lnk
+│   │   │               │   ├── our project templet test.lnk
+│   │   │               │   └── project templet test.lnk
+│   │   │               │   ├── Fax Recipient.lnk
+│   │   │               │   │   │   ├── Magnify.lnk
+│   │   │               │   │   │   ├── Narrator.lnk
+│   │   │               │   │   │   ├── On-Screen Keyboard.lnk
+│   │   │               │   │   │   ├── Internet Explorer.lnk
+│   │   │               │   │   ├── OneDrive.lnk
+│   │   │               │   │   │   ├── Administrative Tools.lnk
+│   │   │               │   │   │   ├── Command Prompt.lnk
+│   │   │               │   │   │   ├── Control Panel.lnk
+│   │   │               │   │   │   ├── File Explorer.lnk
+│   │   │               │   │   │   ├── Run.lnk
+│   │   │               │   │   │   └── computer.lnk
+│   │   │               │   │   │   ├── Windows PowerShell (x86).lnk
+│   │   │               │   │   │   └── Windows PowerShell.lnk
+│   │   │   │   └── templet.lnk
+│   │   │   ├── Desktop.lnk
+│   │   │   ├── Downloads.lnk
+│   │   │   ├── Google Chrome.lnk
+│   │   │   ├── Microsoft Edge.lnk
+│   │   │   │           │       ├── Shows Desktop.lnk
+│   │   │   │           │       ├── Window Switcher.lnk
+│   │   │   │               │   ├── Fax Recipient.lnk
+│   │   │   │               │       │   ├── Magnify.lnk
+│   │   │   │               │       │   ├── Narrator.lnk
+│   │   │   │               │       │   ├── On-Screen Keyboard.lnk
+│   │   │   │               │       ├── OneDrive.lnk
+│   │   │   │               │       │   ├── Administrative Tools.lnk
+│   │   │   │               │       │   ├── Command Prompt.lnk
+│   │   │   │               │       │   ├── Control Panel.lnk
+│   │   │   │               │       │   ├── File Explorer.lnk
+│   │   │   │               │       │   ├── Run.lnk
+│   │   │   │               │       │   └── computer.lnk
+│   │   │   │               │       │   ├── Windows PowerShell (x86).lnk
+│   │   │   │               │       │   └── Windows PowerShell.lnk
+│   │       │           │       ├── Shows Desktop.lnk
+│   │       │           │       ├── Window Switcher.lnk
+│   │       │               │   ├── Fax Recipient.lnk
+│   │       │               │       │   ├── Magnify.lnk
+│   │       │               │       │   ├── Narrator.lnk
+│   │       │               │       │   ├── On-Screen Keyboard.lnk
+│   │       │               │       ├── OneDrive.lnk
+│   │       │               │       │   ├── Administrative Tools.lnk
+│   │       │               │       │   ├── Command Prompt.lnk
+│   │       │               │       │   ├── Control Panel.lnk
+│   │       │               │       │   ├── File Explorer.lnk
+│   │       │               │       │   ├── Run.lnk
+│   │       │               │       │   └── computer.lnk
+│   │       │               │       │   ├── Windows PowerShell (x86).lnk
+│   │       │               │       │   └── Windows PowerShell.lnk
+│   │   │   └── Immersive Control Panel.lnk
+│       │           │   │       │   ├── cversions.3.db
+│       │           │   │       │   └── {2ED7CE06-B905-4D30-88C9-B63C603DA134}.3.ver0x0000000000000001.db
+│       │           │   │       │   ├── wpndatabase.db
+│       │           │   │       │   ├── wpndatabase.db-shm
+│       │           │   │       │   ├── wpndatabase.db-wal
+│       │                   │       └── Microsoft Edge.lnk
